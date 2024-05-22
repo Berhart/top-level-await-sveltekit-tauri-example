@@ -1,0 +1,5 @@
+# Ignore PNPM lockfile
+pnpm-lock.yaml
+
+# Ignore tauri compiled files
+src-tauri/target
